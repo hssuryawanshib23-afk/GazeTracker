@@ -51,7 +51,3 @@ Press `q` to quit.
 | PyTorch | Deep learning framework |
 | OpenCV | Camera I/O & rendering |
 
-## Credits
-
-- [L2CS-Net](https://github.com/edavalosanaya/L2CS-Net) by Abdelrahman Abdelrahman et al.
-- Pre-trained on the [Gaze360](http://gaze360.csail.mit.edu/) dataset
